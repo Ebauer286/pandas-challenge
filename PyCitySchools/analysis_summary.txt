@@ -1,0 +1,10 @@
+Analysis Summary
+=================
+
+The goal of the PyCitySchools Analysis was to compare the results of standardized testing in math and reading within the school district. Using the collected data the following conclusions can be made and used to help future decisions made in the school district. 
+
+Cabrera High School had the highest overall performance of passing test scores with an average of 91.33% whereas Rodriguez High school had the lowest percentage of overall passing test scores of 52.99%. However Cabrera High School does have a smaller sample size of 1858 studnets compared to 3999 students at Rodriguez High School so this could skew the data. 
+When comparing the overall passing scores of schools within the same size range, the large size schools of 2000-5000 students were predominately in the 52%-54% overall passing range with the exception of Wilson High School in the 90% passing range. In comparison, schools in the mid size range of 1000-2000 students were in an overall passing range of 89% - 91%. This tells us that schools with a smaller population have a higher liklihood of receiving a better education that allows them to perform higher on standardized testing.
+Cabrera High School is also a Charter school whereas Rodriguez High School is a District school. Charter schools are known for a higher standard of funding which allows for better education resources and teaching methods along with a more selective student body size which allows for smaller classes and more intimate learning environments. 
+
+In conclusion, the PyCitySchools Analysis suggests that socioeconomic factors can impact student performance. Students attending public school districts have a greater chance of not performing as highly and therefore the schools could benefit from additional funding and support to bolster students from lower-income backgrounds. An additional analysis of the curriculum and teaching methods could also provide more clarity in comparing the effectiveness of learning between the charter schools and the district schools. 
